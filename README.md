@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/Biel-bit/Biel-bit/blob/main/cobrinha.yml" />
+
 
 ###
