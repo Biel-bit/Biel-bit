@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Biel-bit/Biel-bit/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Biel-bit/Biel-bit/output/cobrinha.yml" alt="Snake animation" />
 
 ###
