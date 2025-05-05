@@ -9,7 +9,6 @@
                        Gmail : Joaogabrielrocha189@gmail.com
 
   <h1>Seja bem-vindo(a) ao meu Git-Hub</h1>
-      <img src="![image](https://github.com/user-attachments/assets/7685ff2c-c435-417d-ad70-170bd79d21b3)
-" alt="">
+     ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 <img>
