@@ -39,8 +39,8 @@
 </div>
 
 ###
-
+<div>
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/Biel-bit/Biel-bit/output/snake.svg" alt="Snake animation" />
 ###
+</div>
